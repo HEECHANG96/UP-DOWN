@@ -9,6 +9,10 @@ body {
    
 }
 
+.line-control {
+    margin: 30px;
+}
+
 .container {
     border : 1px solid white;
     border-radius: 20px;
