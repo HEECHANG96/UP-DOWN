@@ -1,6 +1,5 @@
 # UP-DOWN GAME
-* Javascript로 만든 첫 프로젝트
 
-
+JS, HTML, CSS
 
 ## https://up-and-down-game.netlify.app/
